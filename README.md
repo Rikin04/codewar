@@ -6,3 +6,4 @@ Solutions to Codewars katas
 03-7 kyu-Are the numbers in order.py</br>
 04-6 kyu-Rectangle into Squares.py</br>
 05-6 kyu-Counting Duplicates.py</br>
+06-6 kyu-Decode the Morse code.py
