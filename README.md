@@ -10,3 +10,5 @@ Solutions to Codewars katas
 07-6 kyu-Bit Counting.py</br>
 08-7 kyu-Shortest Word.py</br>
 09-6 kyu-Valid Braces.py</br>
+10-6 kyu-Count the smiley faces.py</br>
+11-6 kyu-Create Phone Number.py</br>
