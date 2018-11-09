@@ -12,3 +12,7 @@ Solutions to Codewars katas
 09-6 kyu-Valid Braces.py</br>
 10-6 kyu-Count the smiley faces.py</br>
 11-6 kyu-Create Phone Number.py</br>
+12-6 kyu-Is a number prime.py </br>
+13-5 kyu-String incrementer.py </br>
+14-5 kyu-PaginationHelper.py</br>
+15-5 kyu-Pete, the baker.py</br>
