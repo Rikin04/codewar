@@ -16,3 +16,6 @@ Solutions to Codewars katas
 13-5 kyu-String incrementer.py </br>
 14-5 kyu-PaginationHelper.py</br>
 15-5 kyu-Pete, the baker.py</br>
+16-5 kyu-Product of consecutive Fib numbers.py</br>
+17-5 kyu-Memoized Fibonacci.py</br>
+18-5 kyu-Number of trailing zeros of N.py</br>
